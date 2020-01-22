@@ -2,7 +2,7 @@
 
 ## Goal
 
-Goal of this exercise is to use a naive version of Bayes' Theorem to classify IMDB movie reviews as either positive (1) or negative (0).
+Goal of this exercise is to use a naive version of NLP with randoom forest classifier to classify IMDB movie reviews as either positive (1) or negative (0).
 
 ## Data 
 
